@@ -1,0 +1,9 @@
+﻿  源.cpp
+e:\文件\程序\ec\apc\apc\源.cpp(56): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\文件\程序\ec\apc\apc\源.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apc\apc\源.cpp(151): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apc\apc\源.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apc\apc\源.cpp(176): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apc\apc\源.cpp(186): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apc\apc\源.cpp(190): warning C4018: “<”: 有符号/无符号不匹配
+  APC.vcxproj -> E:\文件\程序\EC\APC\Debug\APC.exe
